@@ -10,7 +10,7 @@ Python, TensorFlow/Keras, Pandas, NumPy, Scikit-learn, Streamlit, Plotly, yfinan
 
 ## Setup
 ```bash
-git clone https://github.com/nedudotcom/hybrid_cnn_lstm.git
+git clone https://github.com/nedudotcom/Stock-Regime-Prediction.git
 cd hybrid_cnn_lstm
 pip install -r requirements.txt
 ```
